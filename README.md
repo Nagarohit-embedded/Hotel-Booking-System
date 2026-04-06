@@ -1,20 +1,22 @@
 Hotel Booking System (C)
-// Description
 
+## Description
 A menu-driven hotel booking system implemented in C using structures and arrays.
 
-// Features
+## Features
 Book single and double rooms
 View all bookings
 Cancel bookings
 Dynamic room allocation
 Input validation
- //Technologies
+
+## Technologies
 C Programming
 Standard Libraries
- How to Run
+
+## How to Run
 gcc hotel.c -o hotel
 ./hotel
-// Author
 
+## Author
 Naga Rohit Anudeep N
